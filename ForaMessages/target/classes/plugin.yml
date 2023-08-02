@@ -1,0 +1,8 @@
+name: ForaMessages
+version: '1.1'
+main: com.foracraft.foramessages.ForaMessages
+api-version: 1.16
+commands:
+  fmsg:
+    description: Написать сообщение человеку. Специально для ForaCraft
+    usage: /<command>

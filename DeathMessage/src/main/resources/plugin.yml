@@ -1,0 +1,3 @@
+name: NPCMaker
+version: '${project.version}'
+main: com.foracraft.npcmaker.NPCMaker
